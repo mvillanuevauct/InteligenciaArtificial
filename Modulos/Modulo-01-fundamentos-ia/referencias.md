@@ -15,3 +15,16 @@
 - UNESCO. (2023). *La inteligencia artificial en la educación*. https://www.unesco.org/es/digital-education/artificial-intelligence
 
 - Universidad de Málaga. (2023). *El uso responsable de la inteligencia artificial generativa, un reto para el sistema educativo*. https://www.uma.es/sala-de-prensa/noticias/el-uso-responsable-de-la-inteligencia-artificial-generativa-un-reto-para-el-sistema-educativo/
+
+
+
+## Recursos revisados
+
+- *Desafíos Éticos de la Inteligencia Artificial*.
+- *ChatGPT en Educación: Alcances, Limitaciones y Recomendaciones*.
+- *Recomendaciones para el Uso de IA Generativa en Educación*.
+- *Cómo Contribuir a la Promoción del Uso de IA Generativa con Integridad Académica*.
+- *Cuáles son las Limitaciones de los Softwares Creados para Detectar la E-Trampa con IA*.
+- *Potenciando el Trabajo Universitario con Inteligencia Artificial*.
+- *Cómo la IA Puede Transformar la Administración y Gestión de las Instituciones de Educación Superior*.
+- Lecturas e infografías sobre IA, herramientas de IA, uso responsable y aplicación de IA en educación.
