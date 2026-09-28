@@ -53,24 +53,7 @@ En mi contexto profesional, la IA puede utilizarse para diseñar materiales de a
 
 También puede ser útil para adaptar recursos a distintas necesidades de aprendizaje y promover una enseñanza más inclusiva. Sin embargo, su uso debe ser planificado, revisado y acompañado por criterios éticos. Es necesario verificar la información generada, proteger datos sensibles y evitar que la herramienta reemplace la participación activa, el análisis y la creatividad de los estudiantes.
 
-## Actividad desarrollada
 
-### Guía para el uso ético y responsable de IA
-
-Como actividad del módulo, se elaboró una guía breve y práctica dirigida al estudiantado para orientar el uso ético, responsable y formativo de herramientas de inteligencia artificial en un curso.
-
-La guía incluye orientaciones sobre:
-
-- Situaciones en que se permite utilizar IA.
-- Casos en que el uso de IA requiere autorización docente.
-- Declaración y citación del uso de herramientas generativas.
-- Resguardo de la autoría y la integridad académica.
-- Protección de datos personales y privacidad.
-- Uso de IA como apoyo al aprendizaje, sin reemplazar el razonamiento propio.
-
-> Agregar aquí el enlace a la evidencia:
->
-> [Ver guía sobre uso ético y responsable de IA](./TareaN°1/guia_uso_etico_ia.html)
 
 ## Reflexión personal
 
