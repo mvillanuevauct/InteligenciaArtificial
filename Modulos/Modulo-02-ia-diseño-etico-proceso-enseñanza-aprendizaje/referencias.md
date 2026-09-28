@@ -2,7 +2,7 @@
 
 - Eaton, S. E. (2023). *Postplagiarism: Transdisciplinary ethics and integrity in the age of artificial intelligence and neurotechnology*. *International Journal for Educational Integrity, 19*, 23. https://doi.org/10.1007/s40979-023-00144-1
 
-- Ministerio de Educación de Chile. (2023). *Guía para docentes: Cómo usar ChatGPT para potenciar el aprendizaje activo*.
+- Ministerio de Educación de Chile. (2023). *Guía para docentes: Cómo usar ChatGPT para potenciar el aprendizaje activo*. https://ciudadaniadigital.mineduc.cl/wp-content/uploads/2023/05/Guia-para-Docentes-Como-usar-ChatGPT-Mineduc.pdf
 
 - Mitchell, M. (2020). *Inteligencia artificial*. MIT Press.
 
