@@ -58,13 +58,4 @@ Como desafío personal, considero necesario seguir desarrollando alfabetización
 - Revisión de recomendaciones para promover integridad académica y uso responsable de IA.
 - Análisis de las limitaciones de los detectores de textos generados con IA.
 
-## Recursos revisados
 
-- *Desafíos Éticos de la Inteligencia Artificial*.
-- *ChatGPT en Educación: Alcances, Limitaciones y Recomendaciones*.
-- *Recomendaciones para el Uso de IA Generativa en Educación*.
-- *Cómo Contribuir a la Promoción del Uso de IA Generativa con Integridad Académica*.
-- *Cuáles son las Limitaciones de los Softwares Creados para Detectar la E-Trampa con IA*.
-- *Potenciando el Trabajo Universitario con Inteligencia Artificial*.
-- *Cómo la IA Puede Transformar la Administración y Gestión de las Instituciones de Educación Superior*.
-- Lecturas e infografías sobre IA, herramientas de IA, uso responsable y aplicación de IA en educación.
