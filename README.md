@@ -31,10 +31,35 @@ diplomado-ia/
 │   │   ├── evidencias/
 │   │   └── recursos.md
 │   ├── modulo-02-ia-en-educacion/
+│   │   ├── README.md
+│   │   ├── resumen.md
+│   │   ├── actividades/
+│   │   ├── evidencias/
+│   │   └── recursos.md
 │   ├── modulo-03-desafios-eticos/
+│   │   ├── README.md
+│   │   ├── resumen.md
+│   │   ├── actividades/
+│   │   ├── evidencias/
+│   │   └── recursos.md
 │   ├── modulo-04-uso-responsable/
+│   │   ├── README.md
+│   │   ├── resumen.md
+│   │   ├── actividades/
+│   │   ├── evidencias/
+│   │   └── recursos.md
 │   ├── modulo-05-chatgpt-y-herramientas/
+│   │   ├── README.md
+│   │   ├── resumen.md
+│   │   ├── actividades/
+│   │   ├── evidencias/
+│   │   └── recursos.md
 │   └── modulo-06-gestion-educativa/
+│   │   ├── README.md
+│   │   ├── resumen.md
+│   │   ├── actividades/
+│   │   ├── evidencias/
+│   │   └── recursos.md
 ├── recursos/
 │   ├── imagenes/
 │   └── plantillas/
