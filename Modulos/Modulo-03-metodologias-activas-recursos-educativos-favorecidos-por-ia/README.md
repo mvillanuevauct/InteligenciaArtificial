@@ -115,14 +115,3 @@ Las metodologías activas ofrecen un marco adecuado para integrar IA, porque pro
 
 Considero que la IA puede aportar valor especialmente en actividades que requieren investigación, análisis y resolución de problemas. Sin embargo, su uso debe estar acompañado por validación, pensamiento crítico, transparencia y responsabilidad profesional.
 
-## Recursos revisados
-
-- *Diseño de metodologías activas con IA para favorecer el aprendizaje profundo*.
-- *Cómo integrar IA en metodologías activas para aprendizaje profundo*.
-- *Inteligencia artificial para potenciar el aprendizaje colaborativo e interdisciplinar*.
-- *Investigación interdisciplinaria apoyada por la inteligencia artificial para repensar la docencia*.
-- *El rol de los chatbots en la educación: resultados de una revisión sistemática*.
-- *Reflexiones, experiencias y desafíos de chatbots en educación*.
-- *Curaduría y diseño de recursos educativos digitales*.
-- *Indicadores de calidad para recursos educativos digitales*.
-- *Aspectos legales de ciberseguridad y protección de datos*.
