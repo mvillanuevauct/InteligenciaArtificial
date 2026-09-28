@@ -17,29 +17,29 @@ Esta bitácora documenta mi proceso de aprendizaje durante el Diplomado en Intel
 ## Estructura del repositorio
 
 ```text
-.
+diplomado-ia/
 ├── README.md
-├── bitacora/
-│   ├── modulo-01.md
-│   ├── modulo-02.md
-│   └── ...
-├── actividades/
-│   ├── actividad-01/
-│   ├── actividad-02/
-│   └── ...
-├── evidencias/
-│   ├── imagenes/
-│   ├── documentos/
-│   └── enlaces.md
+├── docs/
+│   ├── indice-general.md
+│   ├── reflexion-final.md
+│   └── referencias.md
+├── modulos/
+│   ├── modulo-01-fundamentos-ia/
+│   │   ├── README.md
+│   │   ├── resumen.md
+│   │   ├── actividades/
+│   │   ├── evidencias/
+│   │   └── recursos.md
+│   ├── modulo-02-ia-en-educacion/
+│   ├── modulo-03-desafios-eticos/
+│   ├── modulo-04-uso-responsable/
+│   ├── modulo-05-chatgpt-y-herramientas/
+│   └── modulo-06-gestion-educativa/
 ├── recursos/
-│   ├── lecturas.md
-│   ├── herramientas.md
-│   └── glosario.md
-└── reflexiones/
-    ├── reflexion-intermedia.md
-    └── reflexion-final.md
-
-
+│   ├── imagenes/
+│   └── plantillas/
+└── anexos/
+    └── trabajos-destacados/
 
 
 # InteligenciaArtificial
