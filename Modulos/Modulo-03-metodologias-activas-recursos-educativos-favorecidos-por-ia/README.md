@@ -94,18 +94,6 @@ Cada equipo debe declarar el uso de IA y entregar una bitácora que registre:
 
 La IA se utiliza como apoyo al aprendizaje y al análisis técnico; no reemplaza la responsabilidad profesional ni la validación de las soluciones implementadas.
 
-## Evidencias de aprendizaje
-
-- Diseño de una experiencia de aprendizaje activo mediada por IA.
-- Planificación de una ruta de innovación docente.
-- Desarrollo de actividades de aprendizaje basado en problemas.
-- Integración de IA generativa en procesos de investigación y troubleshooting.
-- Elaboración de una bitácora de uso responsable de IA.
-- Diseño de una estrategia de evaluación basada en evidencias técnicas, informe y defensa oral.
-
-> Agregar aquí el enlace a la actividad desarrollada:
->
-> [Ver diseño de experiencia de aprendizaje activo mediada por IA](./actividades/diseno-experiencia-aprendizaje-activo-ia.md)
 
 ## Reflexión personal
 
