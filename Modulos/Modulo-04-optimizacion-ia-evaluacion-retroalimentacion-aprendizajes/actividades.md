@@ -54,3 +54,6 @@ Las herramientas empleadas fueron ChatGPT, Gemini, Cisco Packet Tracer y recurso
 - El estudiantado puede utilizar recursos de IA para estudiar y practicar, pero debe demostrar comprensión individual durante la evaluación práctica y la defensa técnica.
 - La calificación final es responsabilidad exclusiva del docente.
 - Toda configuración técnica debe validarse mediante pruebas y comandos de verificación en Cisco Packet Tracer.
+
+
+[Ver recursos de la evaluación rediseñada](https://drive.google.com/file/d/1x7TGUfOXV74bBdeIKpcm9bljTzbveBZ9/view?usp=sharing)
