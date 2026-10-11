@@ -55,5 +55,14 @@ Las herramientas empleadas fueron ChatGPT, Gemini, Cisco Packet Tracer y recurso
 - La calificación final es responsabilidad exclusiva del docente.
 - Toda configuración técnica debe validarse mediante pruebas y comandos de verificación en Cisco Packet Tracer.
 
+  ## Evidencias de aprendizaje
+
+- Rediseño de un proceso evaluativo de OSPFv2.
+- Micrositios interactivos de preparación para la evaluación.
+- Infografías sobre router ID, adyacencias, verificación y troubleshooting.
+- Preguntas de autoevaluación y actividades de práctica.
+- Rúbrica rediseñada para diagnóstico, corrección, verificación y defensa técnica.
+- Topología de Cisco Packet Tracer con configuraciones parciales y errores intencionales.
+- Prompts e iteraciones utilizadas para el diseño de recursos con IA.
 
 [Ver recursos de la evaluación rediseñada](https://drive.google.com/file/d/1x7TGUfOXV74bBdeIKpcm9bljTzbveBZ9/view?usp=sharing)
