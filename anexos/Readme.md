@@ -31,18 +31,18 @@ Según el articulo "Diez herramientas de IA que todo profesor debería conocer: 
 
 
 
-• Chalkie https://chalkie.ai/es
+• [Chalkie](https://chalkie.ai/es)
 
-• **Magic School AI:** Suite con más de 60 herramientas curriculares para planificar clases, generar rúbricas y adaptar contenidos.
+• **[Magic School AI](https://www.magicschool.ai/):** Suite con más de 60 herramientas curriculares para planificar clases, generar rúbricas y adaptar contenidos.
 
-• **Gamma.app:** Transforma ideas o temáticas en presentaciones visuales, infografías y sitios web estructurados en segundos.
+• **[Gamma.app](https://gamma.app/):** Transforma ideas o temáticas en presentaciones visuales, infografías y sitios web estructurados en segundos.
 
 
-• **Curipod:** Diseña lecciones interactivas y presentaciones en tiempo real con participación de la clase.
+• **[Curipod](https://curipod.com/lang/es-ES):** Diseña lecciones interactivas y presentaciones en tiempo real con participación de la clase.
 
-• **Gradescope:** Facilita y acelera la corrección y evaluación consistente de tareas y exámenes tanto físicos como en línea.
+• **[Gradescope](https://www.gradescope.com/):** Facilita y acelera la corrección y evaluación consistente de tareas y exámenes tanto físicos como en línea.
 
-• **Wordwall:** Genera juegos educativos personalizados (ruletas, quiz, crucigramas) para repaso y evaluación formativa.
+• **[Wordwall](https://wordwall.net/):** Genera juegos educativos personalizados (ruletas, quiz, crucigramas) para repaso y evaluación formativa.
 
 
 ## Para estudiantes: 
