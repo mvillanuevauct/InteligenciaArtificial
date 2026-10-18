@@ -2,7 +2,7 @@
 
 ## Para Profesores:
 
-Según el articulo "Diez herramientas de IA que todo profesor debería conocer: la N°4 y la N°7 están cambiando todo" jubilado el viernes 12 de diciembre del 2025 por el Centro de Investigación avanzada en educación de **Universidad de Chile** menciona las siguientes herramientas
+Según el articulo "Diez herramientas de IA que todo profesor debería conocer: la N°4 y la N°7 están cambiando todo" publicado el viernes 12 de diciembre del 2025 por el Centro de Investigación avanzada en educación de **Universidad de Chile** menciona las siguientes herramientas
 
 ## Herramientas educativas con IA
 
