@@ -1,4 +1,4 @@
-##Algunas plataformas de IA que pudieran ser de interés asociadas a la educación. 
+## Algunas plataformas de IA que pudieran ser de interés asociadas a la educación. 
 
 ## Para Profesores:
 
